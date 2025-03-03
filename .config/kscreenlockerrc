@@ -1,0 +1,6 @@
+[Daemon]
+Timeout=15
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/succoria/.config/homutan_1.jpg
+PreviewImage=/home/succoria/.config/homutan_1.jpg
